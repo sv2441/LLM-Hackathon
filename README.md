@@ -2,7 +2,11 @@
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## 🏆Output
-https://github.com/sv2441/LLM-Hackathon/assets/62471058/19af9e06-bb7a-4649-95aa-42f9dc214e30
+
+
+https://github.com/sv2441/LLM-Hackathon/assets/62471058/3c0a8e88-0f07-4416-8a45-4cd893db20e7
+
+
 
 ## 📜Problem Statement
 The project revolves around the development of an application that addresses key HR challenges by utilizing advanced language processing, logic, and machine learning techniques. The primary tasks to be accomplished by the application are as follows:
@@ -15,7 +19,8 @@ StreamlitCloud
 Firebase
 
 ## 🎯Solution
-![LLM Hackathon](https://github.com/sv2441/LLM-Hackathon/assets/62471058/b61f183e-9d99-461d-b8a4-e25dda1a9c6e)
+![LLM Hackathon](https://github.com/sv2441/LLM-Hackathon/assets/62471058/44dfac13-5fde-4a8c-8dd4-ef055f96f857)
+
 
 **1. Job Description Evaluation:**
 Input: The application should be able to accept job descriptions and multiple CVs in various formats.
